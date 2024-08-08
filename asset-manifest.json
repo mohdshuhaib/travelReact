@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/travelReact/static/css/main.d1e0f75e.css",
+    "main.js": "/travelReact/static/js/main.8b915691.js",
+    "index.html": "/travelReact/index.html",
+    "static/media/heart-solid.svg": "/travelReact/static/media/heart-solid.83d2c22643a7fa8982ad7f476f722fa5.svg",
+    "main.d1e0f75e.css.map": "/travelReact/static/css/main.d1e0f75e.css.map",
+    "main.8b915691.js.map": "/travelReact/static/js/main.8b915691.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1e0f75e.css",
+    "static/js/main.8b915691.js"
+  ]
+}
